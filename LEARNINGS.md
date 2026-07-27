@@ -165,3 +165,30 @@ Carrie 明確：post 唔想「扮野」，只想「sharing news with all of you�
 6. **唔搞 engagement 谷數**：唔夾人留言、唔 DM 谷 comment（Carrie 明確唔要）——真心分享，出咗就算
 
 紅線：唔扮權威、唔 sales flex、唔高高在上。係「同行分享」，唔係「專家指點」。
+
+## Issue 002（2026-07-28 出刊，覆蓋 7 月 20–26 日）
+
+### Fact-check 揪出嘅錯（下期直接避免）
+
+1. **舊聞陷阱再犯一次，即使 Issue 001 已經寫低教訓**：Meta「AI 廣告標籤收緊」一則，實際原始政策係 6 月 1 日、報道係 7 月 9 日，唔係當週新聞——被二手 wire 稿（Marketing Dive/Sociable）包裝到似係本週新聞。Fact-check agent 揪出後即刻換咗做騰訊 Miora（7 月 22 日全量上線，一手 Tencent News 來源）。**規則：凡靠二手／aggregator 報道搵到嘅料，起草前就要先追溯返最原始嗰篇公司公告嘅日期，唔好等 fact-check 先發現。**
+2. **公司官網會有多篇主題相近但日期唔同嘅文章**：OpenAI 關於「點樣落 ChatGPT 廣告」呢個主題，5 月同 7 月各出過一篇官方 blog post，起草時錯引咗 5 月嗰篇當做 7 月 22 日 GA 嘅來源，順帶將 5 月先出嘅 CPC bidding 功能寫成「呢星期新增」。**規則：引用公司官網做來源時，一定要核實嗰條 URL 本身嘅發布日期，唔好淨係睇主題啱唔啱。**
+3. **中文大數字換算出錯**：小紅書 RED Skill 開發者人數，多個一手來源標題都寫「7300個Skill、16萬開發者」，起草時「16萬」被誤讀/誤打成「1,600」——即差咗 100 倍。**規則：中文標題入面嘅萬／万呢類單位，抄錄後要用計數機心算一次核實，唔好掃描式閱讀。**
+4. **定價比較物件要準**：Claude Opus 5「平前代一半價錢」呢個講法，原意其實係「Opus 5 平 Fable 5 一半」，Opus 5 本身同 Opus 4.8 定價不變——起草時將比較物件搞錯咗。**規則：定價／規格類比較句，要寫明「邊個 vs 邊個」，唔好用「its predecessor」呢類代名詞簡化，容易張冠李戴。**
+5. **Hedge 校準都要留意「太保守」嗰面**：Moonshot 制裁一則，初稿寫「據報財政部考慮緊制裁」，但財政部長 Bessent 本人已經公開表態「制裁都在考慮之列」——呢個唔係要加 hedge，而係要拆返「reportedly」，直接歸屬俾佢本人嘅公開發言。**規則：hedge 語氣兩個方向都要核實——唔止「敢唔敢講死」，仲有「講得夠唔夠準」。**
+
+### 專家 panel 揪出嘅殘留問題
+
+- Footer 常設一句「interpretations are mine」，同 2026-07-21 定立嘅「網站唔用個人掛名觀點」規則有牴觸——呢句由 Issue 001 一直留到而家先俾 panel 捉到。**已喺 Issue 002 footer 刪走，改做「Stories link to original sources.」**——下期記得順手檢查 Issue 001 需唔需要同步（歷史檔案，暫時未動）。
+- 「值得思考」第二條問題用咗「client work」呢個 agency 專屬字眼，panel 指出品牌方／in-house 讀者唔會咁講自己嘅產出——改咗做中性嘅「a piece of work」。
+
+### 流程學習
+
+- **三 agent 並行審核（2 fact-check + 1 panel）今期做得更徹底**：兩個 fact-check agent 各自跑咗 30+ 次搜尋（合共 233 秒同 364 秒），撈出 1 個要命嘅日期錯誤（Meta 舊聞）、1 個 100 倍嘅數字錯誤、1 個引錯 URL、2 個定價／歸屬校準——證明呢個步驟嘅投資報酬遠高過出街後被人捉錯。
+- Fact-check agent 之間有分工重疊都無妨（例如兩邊都提到 hedge 校準），交叉核對反而加強咗信心。
+- Playwright 驗證流程行咗兩次（改完 headline 入面殘留嘅舊數字先發現漏咗一處），提醒：**改完 Key Highlights 入面嘅數字，一定要順手 grep 埋標題／badge 有冇同一個數字嘅重複版本**，唔好淨係改一處就當搞掂。
+
+### 未完成／下期跟進
+
+- [ ] Issue 001 嘅 footer「interpretations are mine」歷史殘留，未同步修正（歷史檔案，需 Carrie 決定要唔要動）
+- [ ] 用戶開通 LinkedIn Newsletter 後，換 `index.html` 兩個 Subscribe 連結（search `Subscribe:` 註釋）——沿用上期未完成事項
+- [ ] Pattern Watch 呢期做咗兩個（HF breach × AI Safety Index 對照；ChatGPT Ads self-serve × Meta playbook 追蹤）——下期繼續追蹤 lookalike audiences 有冇正式上線
