@@ -225,3 +225,12 @@ Carrie 明確：post 唔想「扮野」，只想「sharing news with all of you�
 ## LinkedIn post + 封面每期硬性交付（2026-07-27 Carrie 常設要求，永久生效）
 
 Carrie 明確：**每次出 issue，都要連同英文 LinkedIn post 內容 + post image 一齊交俾佢出 post。** 已寫入 `SKILL.md` 不可妥協規則同 `WORKFLOW.md` Step 8：完工時一定要用 `SendUserFile` 交 ① 英文 LinkedIn post 全文（可直接 copy）② 當期英文封面 PNG——每期必做，唔使等佢開口。
+
+## 中文 native 度 editor sweep（2026-07-27，Carrie 覺得中文似英譯後）
+
+Carrie 反映網站中文「唔夠 native、似由英文硬譯」。派咗一位資深香港繁體中文編輯 agent 掃全站，整體評 7/10，改咗 23 處。翻譯腔集中喺長句 Industry Insight／Key Highlights，主要四類（下期起草時直接避開）：
+1. **代名詞硬譯**「它的／其」（its／it）——中文母語多數會刪
+2. **長前置定語／名詞化套疊**（英文 relative clause 成段塞喺名詞前，例如「首宗…的案例」「所需的研究成本」）——拆短、用冒號、topic-comment
+3. **英式骨架「對（於）…而言」濫用**（一版用咗 4 次，其中兩則 mkt 新聞開頭一模一樣「對香港及大中華的營銷人而言」）——變化講法，唔好連續同一開頭
+4. **廣東話口語**（細型／細團隊／識編程／有經營）同**內地用詞**（全量開放／自研／跳轉）滲入——違反「香港書面中文、唔准廣東話口語」硬標準
+**最重要教訓：新加／後補嘅新聞段落最易中翻譯腔（今次 Gartner／Alphabet／hero 三段都有），所以 editor sweep 唔止掃舊內容——邊段最新寫、最趕，邊段就最要過。** 下期可將呢四個 marker（的的不休、它的/其、對…而言、廣東話/內地詞）加入 WORKFLOW Step 6 嘅 grep 清單。
