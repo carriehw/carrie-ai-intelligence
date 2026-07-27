@@ -36,3 +36,4 @@ description: Produce a new issue of "Carrie AI Intelligence" — the bilingual (
 - **Pattern Watch 要有實據**（觀察到嘅 sequence／數據），寫明依據，唔用「我預期」斷言；產品狀態字眼（default／GA／beta／rolling out）同「可用市場」清單逐隻核實
 - **公司名唔出現**：Carrie 嘅身份係「AI Marketing Strategist · Travel Retail & Greater China」，唔提僱主；獎項寫「所屬團隊曾獲」；footer 常設個人出版物＋AI 協作聲明
 - 所有 Industry Insight／Pattern Watch 係代 Carrie 起草，出街前由佢過目——喺總結中提醒佢，並附完整 LinkedIn post 全文（中英）方便直接 copy
+- **每期硬性交付（Carrie 2026-07-27 常設規則）**：完工時一定要用 `SendUserFile` 交俾 Carrie ① 英文 LinkedIn post 全文（可直接 copy 出 post）② 當期 post image（英文封面 PNG）——每期必做，唔使等 Carrie 開口

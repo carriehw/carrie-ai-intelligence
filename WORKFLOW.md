@@ -107,6 +107,7 @@
 - **語氣（Carrie 硬性規定）**：「分享新聞畀大家」嘅平實 tone——唔用 manifesto/hot-take 開場、唔用「my bet／my play／我預期」權威口吻、唔用 sales flex（"one brief not fifty headlines" 類刪）、唔用「I read the news so you don't have to」高高在上。係同行分享，唔係專家指點
 - 結構：平實開場（1 句）→ 3 則 takeaway（🟢🟡🔴＋一句輕解讀 "worth knowing"/"a good nudge"/"one to watch"）→ 完整簡報連結**直接放正文**→ 平實收尾＋短免責（"Personal project — views my own"）
 - 規則：連結放正文（唔玩 first-comment 谷 reach）；**唔搞 engagement 谷數**（唔夾人留言/唔 DM 谷 comment）；當期頭圖做 post 附圖；香港時間週二／三 8:30–9:30am 出；hashtags 5–6 個；tricky 留言參考 linkedin-post.md 尾段小抄
+- **每期硬性交付（Carrie 2026-07-27 常設規則）**：完工時一定要用 `SendUserFile` 交俾 Carrie ① 英文 LinkedIn post 全文（可直接 copy 出 post）② 當期英文封面 PNG——兩樣缺一不可，每期必做，唔使等 Carrie 開口
 
 ## Step 9 — 記錄 learnings（收工前必做）
 

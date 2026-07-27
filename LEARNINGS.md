@@ -204,3 +204,24 @@ Carrie 明確：post 唔想「扮野」，只想「sharing news with all of you�
 2. 同一條產品／功能線（例如「ChatGPT Ads」「Xiaohongshu RED Skill」）如果上期已經開過正選新聞，呢期得返漸進式細更新（加功能、擴市場、數字微升），**唔開新 headline**，改用 Pattern Watch 或者喺其他相關新聞嘅 Key Highlights 一句帶過
 3. 只有重大進展（beta→GA、市場覆蓋大幅跳升、方向逆轉、監管介入）先值得重開新 headline，並且標題／首個 bullet 要講明係跟進（例如「继…之後」），唔好當做全新獨立新聞包裝
 4. Pattern Watch 本身就係為咗解決呢個問題而設嘅機制（見 Issue 001「編輯方針改版」）——呢次教訓係：**Pattern Watch 唔夠，仲要喺選題階段就主動避免同一條線連續兩期攞正選位**
+
+## Issue 002 追溯修訂（2026-07-27，Carrie 要求換走 ChatGPT Ads 則）
+
+上一節寫低 rule #7（向前生效）之後，Carrie 進一步決定：唔止下期避免，今期都要**換走**「OpenAI 開放 ChatGPT 廣告」嗰則，並且「兩則都加」（Gartner + Alphabet），Issue 002 由 10 則變 11 則（MARKETING IMPACT 4 則）。呢次係一個「已出街後追溯改稿」嘅完整案例，下次照跟：
+
+**選題／研究：**
+1. **替補新聞一定要喺同一期覆蓋窗口內**（20–26/7）——唔可以貪新搵 27/7 或之後嘅，否則變成成期唯一超出自己覆蓋週嘅一則，反而穿崩。天花板 = 覆蓋週最後一日。
+2. **roundup 炒冷飯陷阱又中一次**：Meta AI 廣告助手（實 4 月）、TikTok Agentic Hub（6 月 30）、SparkToro 零點擊研究（6 月 8）、阿里媽媽 AI萬相（3 月）全部被 7 月 roundup／每日彙整包裝成當週。每日新聞彙整（bestmediainfo／marketingtech 呢類）啱用嚟搵線索，但**每條都要追返一手嘅原始日期**先揀到真正 in-window 嘅 Gartner（7 月 20 官方 press release）同 Alphabet Q2（7 月 22 業績）。
+3. Carrie 質疑「呢啲會唔會耐得滯」——好提醒：追溯改稿要主動同佢講清楚替補點解 in-window（同期其他新聞一樣新，例：Alphabet 同已收貨嘅騰訊 Miora 都係 7 月 22），順便交代篩走咗邊幾條真·舊聞，佢先安心。
+
+**Fact-check（又一次值回票價）：**
+4. 揪出「只有 18% 企業見到 AI 收入影響」唔係 Gartner 嗰篇，係 HCLTech（7 月 21）——roundup 將兩份同週報告溝埋，已剔走。另：Gartner「117%」係 GenAI 模型總線，唔好誤標做 foundation model（嗰個係 104.2%）。
+5. AI Max/PMax「+15% 轉化」係業績電話會嘅正確數字；product-page 另有個 +7%（窄口徑，唔同嘢）——揀啱嗰個，唔好被 7% 誤導。
+
+**整合／連帶清理（追溯改稿最易漏）：**
+6. 連續兩期 Google 搜尋廣告線（Issue 001 開過「AI Mode ads」）嘅處理：Alphabet 嗰則用 **Pattern Watch 明確承接 Issue 001**，將「重複」轉做「跟進 payoff」（rule #7 容許嘅做法），唔係當全新獨立新聞。
+7. **改／換一則新聞後，一定要全站 grep 佢嘅連帶引用**：hero「本週訊號」、封面 desc + 故事數（10→11）、閱讀時間、LinkedIn takeaway + crib + hashtag、「值得思考」section。今次順手捉到兩個 dangling ref：action 02 仲掛住已被換走嘅「Meta 廣告標籤」（由 0002 patch 一路留到而家先發現）、action 03 掛住 ChatGPT Ads——一併重錨。**新內部規則：每次換／改新聞後，grep 全站有冇留低已移除故事嘅引用。**
+
+## LinkedIn post + 封面每期硬性交付（2026-07-27 Carrie 常設要求，永久生效）
+
+Carrie 明確：**每次出 issue，都要連同英文 LinkedIn post 內容 + post image 一齊交俾佢出 post。** 已寫入 `SKILL.md` 不可妥協規則同 `WORKFLOW.md` Step 8：完工時一定要用 `SendUserFile` 交 ① 英文 LinkedIn post 全文（可直接 copy）② 當期英文封面 PNG——每期必做，唔使等佢開口。

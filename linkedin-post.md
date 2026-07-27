@@ -16,15 +16,15 @@ A few AI stories stood out to me this week — sharing the ones that feel most r
 
 🟢 HKT's Tech Week survey found 82% of Hong Kong companies plan to invest more in AI over the next year — but only 43% have actually set aside budget for it. A good nudge if you're pitching AI work to HK clients: most are further back in the process than they sound.
 
-🟢 OpenAI opened ChatGPT ads to the public this week, with Best Buy and Lowe's as early advertisers. Not bookable from Hong Kong yet, but one to watch — it's moving fast.
+🟡 Google's Q2 results cut against the "AI is killing search" story — search ad revenue still grew 17%, and advertisers on its AI campaign tools (AI Max, Performance Max) averaged about 15% more conversions. One to watch before trimming any search budget over zero-click worries.
 
-I gathered 10 stories in total this week. Full brief with all the sources, EN + 中文 👇
+I gathered 11 stories in total this week. Full brief with all the sources, EN + 中文 👇
 https://carriehw.github.io/carrie-ai-intelligence/
 
 Just sharing what I've been reading, hope some of it's useful 🙏
 (Personal project — views my own, not my employer's.)
 
-#AIMarketing #DigitalMarketing #HongKong #MarTech #ChatGPT
+#AIMarketing #DigitalMarketing #HongKong #MarTech #Google
 ```
 
 ---
@@ -38,15 +38,15 @@ Just sharing what I've been reading, hope some of it's useful 🙏
 
 🟢 香港電訊 Tech Week 調查發現，82% 香港企業計劃未來一年加碼投資 AI——但只有 43% 真正預留了預算。如果你有向香港客戶提案 AI 相關工作，這是個好提醒：大部分企業其實仍未去到你以為的那一步。
 
-🟢 OpenAI 這星期將 ChatGPT 廣告正式向公眾開放，Best Buy 和 Lowe's 是早期廣告主。香港暫時未能落廣告，但值得留意——它推進的速度不慢。
+🟡 Google 第二季業績出爐，與「AI 正在扼殺搜尋」的說法相反——搜尋廣告收入仍增長 17%，而使用其 AI 投放工具（AI Max、Performance Max）的廣告主，轉化平均多出約 15%。在因「零點擊」憂慮而削減搜尋預算之前，值得留意。
 
-這星期我一共整理了 10 則，完整簡報連原文出處（中英雙語）👇
+這星期我一共整理了 11 則，完整簡報連原文出處（中英雙語）👇
 https://carriehw.github.io/carrie-ai-intelligence/
 
 只是分享一下我在讀的東西，希望對你有點幫助 🙏
 （個人項目，內容只代表個人，不代表僱主。）
 
-#AIMarketing #香港Marketing #DigitalMarketing #ChatGPT #MarTech
+#AIMarketing #香港Marketing #DigitalMarketing #Google #MarTech
 ```
 
 ---
@@ -78,7 +78,7 @@ Personal project — views mine, not any employer's or client's.
 2. **「公司知唔知？」（多數係 DM）** — *「知呀，出之前已經同公司打過招呼。呢個係我個人 project，唔代表公司或者任何客戶，內容全部來自公開資料。」*（⚠️ 呢句要係真話先講得——出 post 前記得真係同上司打招呼）
 3. **「點解讀你唔讀 Ben's Bites？」** — *"You probably shouldn't read mine instead — read mine after. They tell you what happened globally; I tell you what a marketer in Hong Kong should do about it. That last mile is the whole product."*
 4. **技術黨挑錯（例：Opus 5 定價細節）** — *"Fair challenge — my source is Anthropic's own announcement (linked in the brief). If you're seeing something different in practice, send it over and I'll correct the brief today — I'd rather be corrected in public than wrong in private."*（網站係 living page，錯咗即日改＋標明 Corrected，係 Issue 001 儲信譽嘅機會）
-5. **「香港都落唔到 ChatGPT Ads，關我咩事？」** — *「正正因為未開放，訊號先係『準備』唔係『投放』。香港暫時唔喺自助落廣告嘅名單上——但呢類窗口通常開得幾快（英國、日本、南韓都係今年先陸續開），早啲了解點運作，開放嗰日先唔使由零學起。」*
+5. **「Google 自己數自己嘅成績，可信咩？」**（有人質疑 AI Max/PMax +15% 係 Google 自己講嘅數字） — *「公平嘅質疑——所以 brief 入面寫明咗係 Google 自己披露嘅數字，唔係第三方。用法係：唔好照單全收，自己開個對照組 A/B 測一測先算數。數字係佢畀嘅，但驗證喺你手上。」*
 6. **Junior 同事：「即係話我哋冇得撈？」** — *「唔係。決定自動化嘅係平台，唔係我——扮睇唔到先係對 junior 最唔負責任。未來兩年升得最快嘅 junior，會係最早學識指揮呢啲 AI agents 嘅人。」*
 7. **潛在客戶 DM 想搵你私下做 audit** — 唔好接私活（利益衝突）：*「方法喺 brief 入面都有講，自己團隊都做到。想認真做大規模嘅，行正式渠道搵我哋 agency 傾。」*
 
