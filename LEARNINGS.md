@@ -192,3 +192,15 @@ Carrie 明確：post 唔想「扮野」，只想「sharing news with all of you�
 - [ ] Issue 001 嘅 footer「interpretations are mine」歷史殘留，未同步修正（歷史檔案，需 Carrie 決定要唔要動）
 - [ ] 用戶開通 LinkedIn Newsletter 後，換 `index.html` 兩個 Subscribe 連結（search `Subscribe:` 註釋）——沿用上期未完成事項
 - [ ] Pattern Watch 呢期做咗兩個（HF breach × AI Safety Index 對照；ChatGPT Ads self-serve × Meta playbook 追蹤）——下期繼續追蹤 lookalike audiences 有冇正式上線
+
+## Issue 002 出街後 Carrie feedback（2026-07-27，永久生效）
+
+**問題**：Carrie 指出 Issue 002 嘅「OpenAI 將 ChatGPT 廣告正式向公眾開放——香港仍未在名單上」呢則，同 Issue 001 已經開過嘅「ChatGPT Ads 悄悄開放 Custom Audiences」太似——兩則都係「ChatGPT Ads 呢條產品線又有新進展」，連續兩期都開晒做正選 headline，讀者會覺得重複。
+
+**根源**：起草 Step 1 研究嗰陣，冇檢查返上一期／上上期已經開過嘅新聞標題／連結，淨係核對咗「呢則新聞本身係咪當週新聞」，冇核對「呢條產品線上期開唔開過」。
+
+**新規則（已寫入 WORKFLOW.md Step 2 寫作規則第 7 條，永久生效）**：
+1. 起草前，將上一期同上上期嘅全部標題／連結列出嚟做一次對照
+2. 同一條產品／功能線（例如「ChatGPT Ads」「Xiaohongshu RED Skill」）如果上期已經開過正選新聞，呢期得返漸進式細更新（加功能、擴市場、數字微升），**唔開新 headline**，改用 Pattern Watch 或者喺其他相關新聞嘅 Key Highlights 一句帶過
+3. 只有重大進展（beta→GA、市場覆蓋大幅跳升、方向逆轉、監管介入）先值得重開新 headline，並且標題／首個 bullet 要講明係跟進（例如「继…之後」），唔好當做全新獨立新聞包裝
+4. Pattern Watch 本身就係為咗解決呢個問題而設嘅機制（見 Issue 001「編輯方針改版」）——呢次教訓係：**Pattern Watch 唔夠，仲要喺選題階段就主動避免同一條線連續兩期攞正選位**
